@@ -1,7 +1,16 @@
 body {
-    background-color: white;
+	font-family: Helvetica, sans-serif; 
+	font-size: 15px;
+	background-color: #FFFF66;
+	line-height: 1.3;
+}
+
+header {
+	padding: 20px;
 }
 
 h1, p {
-    color: #39464E;
+	color: #4B0082;
+	font-size: 60px;
 }
+
