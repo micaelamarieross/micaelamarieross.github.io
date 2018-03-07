@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+img {
+	padding-top: 100px;
+	width: 800px;
+}
+
+header {
+	background-color: #E5CF58;
+	padding: 3em;
+	border: 15px solid;
+	border-color: rgba(255,255,255,.6);
+	height: 900px;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: rgba(255,255,255,.6);
+    font-size: 50px;
+    line-height: 80.2px;
+}
+
+span {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+	font-size: 50px;
+	line-height: 80.2px;
+	padding-top: 2em;
+}
+
+#design{
+	background:url(../images/GBG.png) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: right bottom;
+	height: 900px;
+}
+
+#writing{
+	background:url(../images/IBP.png) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-size: cover;
+	background-position: left bottom;
+	height: 900px;
+}
+
+#art{
+	background:url(../images/LM_poster_wide.png) no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-size: cover;
+	background-position: bottom;
+	height: 900px;
+}
+
+#ender{
+	background-color: #E5CF58;
+	padding: 3em;
+	border: 15px solid;
+	border-color: rgba(255,255,255,.6);
+	height: 900px;
+}
+
+a{
+	text-decoration:none;
+	color: #fff;
+}
+
+/*.clearfix:after{
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:"";
+	display: block;
+	clear:both;
+}*/
